@@ -1,6 +1,6 @@
 <div align="center">
 
-# Inkgrove
+<img src="assets/banner.png" alt="Inkgrove" width="620" />
 
 ### Write your novel. It stays yours.
 
