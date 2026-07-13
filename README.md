@@ -64,7 +64,6 @@ Everything a long manuscript needs, in one place:
   and comment your way to a structure.
 - **🧭 Outline** — a bird's-eye table of the whole book, with per-scene status, POV,
   and synopses.
-- **🗺️ Story Map** — the whole narrative on one timeline-style map.
 - **📖 Story Bible** — track **characters**, **world** details, and **research** alongside
   the manuscript. Character sheets with portraits, goals, conflicts, and voice notes.
 - **✨ Names light up in your prose** — mention a character or place you've recorded and
