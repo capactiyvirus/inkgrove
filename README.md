@@ -80,8 +80,8 @@ Everything a long manuscript needs, in one place:
   Alt+click any word for definitions and synonyms. Fully offline.
 - **📥 Import your work** — drop in `.docx` / `.md` / `.txt` / a whole folder or ZIP,
   a **Scrivener project** (`.scriv`), or one big Google-Docs export — Inkgrove splits it
-  into chapters and scenes for review before anything is created (and can propose
-  characters, world entries, and plot threads from the draft).
+  into chapters and scenes for review before anything is created (and can scan the
+  draft to propose Story Bible entries — characters and world — for review).
 - **🌗 Dark mode & themes** — including guided tours to find your way around.
 
 ## No lock-in — the exit door is built in
@@ -120,24 +120,6 @@ These survive app updates. To move Inkgrove to a new machine, copy `inkgrove.db`
 
 ---
 
-## Your own AI (bring your own key)
-
-Inkgrove has a **manuscript-aware AI** that you power with **your own Anthropic API key** —
-so you pay the AI provider directly and **we never see your key or your writing**.
-
-- Paste your key in **⚙ Settings** (session-only by default) and pick a model
-  (Claude Haiku / Sonnet / Opus).
-- **Scene & book synopsis** — summarize what you've written.
-- **Build from manuscript** — the AI reads your draft and *proposes* characters, world
-  entries, and plot threads for you to review and apply.
-- An **AI history** log shows what ran and the token spend.
-- No key? Everything else works exactly the same — the AI is optional, not the product.
-
-**The principle:** AI **assists** — it reads, summarizes, and organizes. It **never writes
-your prose for you**. The book stays yours.
-
----
-
 ## Cross-device, your way
 
 No proprietary sync. If you want your manuscript on more than one machine, point Inkgrove's
@@ -173,6 +155,6 @@ it across devices. Your data, your account, no middleman.
 **[Browser demo](https://lit-haven.pages.dev)** ·
 **[Report an issue](https://github.com/capactiyvirus/inkgrove/issues)**
 
-*Inkgrove — a writing tool that assists, and never writes your prose for you.*
+*Inkgrove — your novel, your files, your machine.*
 
 </div>
