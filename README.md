@@ -25,8 +25,13 @@ No account. No upload. No server. Your words live on your machine.
 | **Linux** | 🔜 Coming soon | — |
 | **iOS / Android** | 🔜 Planned | — |
 
-No installer for your OS yet? Use the free **browser demo** — no install, runs entirely
-in your browser: **https://lit-haven.pages.dev**
+No installer for your OS yet? Try the **browser demo** — no install, nothing to sign up
+for: **https://lit-haven.pages.dev**
+
+> The browser demo is a **test drive, not a place to keep a novel**. It runs entirely in
+> memory and saves nothing — reloading or closing the tab clears it — and it's capped at
+> one project and 5,000 words. Export before you leave, or use the desktop app, which
+> saves to a real file on your disk.
 
 ### Windows: "Windows protected your PC"
 Inkgrove is in **alpha** and not yet code-signed, so Windows SmartScreen may flag it as
@@ -43,57 +48,45 @@ welcome, then drops you into your projects.
 Inkgrove is a full novel-writing environment — not a note-taking app with a word count.
 Everything a long manuscript needs, in one place:
 
-- **📝 Distraction-free editor** — a clean, paginated writing surface with focus mode.
-- **📑 Chapter binder** — organize your manuscript into chapters and scenes, drag to reorder.
-- **🗂️ Corkboard** — see your scenes as index cards; rearrange the structure visually.
+- **📝 Distraction-free editor** — a clean writing surface with focus and typewriter modes,
+  split panes, and inline **comments & footnotes** for revision passes.
+- **📑 Chapter binder** — organize your manuscript into chapters, sub-chapters and scenes,
+  drag to reorder.
+- **🗂️ Corkboard** — your book as index cards on a board you actually think on: connect
+  cards, group them into labelled frames, drop in characters and reference images, pin
+  quotes straight from the manuscript, or grow a mind-map from the keyboard.
 - **🧭 Outline** — a bird's-eye view of the whole book, with per-scene synopses.
+- **🗺️ Story Map** — the whole book as one picture: who appears where, and how threads
+  run through it.
 - **📖 Story Bible** — track **characters**, **world** details, and **research** in one place,
-  linked to where they appear.
+  linked to where they appear. Type a name in your prose and it links itself.
 - **🧩 Plot grid** — map plot threads across chapters so nothing gets dropped.
-- **🔍 Project-wide search** — find any line across the entire manuscript instantly.
+- **🔍 Project-wide search** — find any line across the entire manuscript instantly,
+  with whole-word and regex modes, plus find-and-replace.
 - **🕘 Scene snapshots** — automatic versions of your scenes, so an edit is never final.
-- **🎯 Writing goals** — set a manuscript word target and a daily goal; a streak keeps
-  you honest.
-- **📥 Import your work** — drop in a folder of `.docx` / `.md` / `.txt` and Inkgrove
-  sorts it into chapters (and can extract characters, world, and plot for you).
+- **🎯 Writing goals** — a manuscript target, a daily goal, deadline pacing, and a streak
+  to keep you honest.
+- **📥 Import your work** — drop in a folder of `.docx` / `.md` / `.txt`, a **Scrivener**
+  project, or a `.zip`, and Inkgrove sorts it into chapters.
 
 ---
 
-## Local-first & private
+## Your work leaves whenever you want
 
-Your writing **never leaves your machine** unless you choose to move it.
+No lock-in, and no format anyone else controls. Every export runs **on your machine** —
+there's no server to upload to:
 
-- **On disk, in your control** — the desktop app stores your work as a real database
-  file on your computer (`inkgrove.db`), not in a cloud you don't own.
-- **No account, no sign-up, no telemetry of your text.** There is no server to send it to.
-- **Fully offline.** Write on a plane; nothing depends on a connection.
-- **Automatic backups** — the app keeps rolling local backups so a bad edit, crash, or
-  corruption is recoverable.
+| Format | Use |
+|---|---|
+| **DOCX** | Hand to an agent, editor, or Google Docs — with real Word footnotes |
+| **EPUB** | Read it on an e-reader |
+| **PDF** | Print or share a fixed copy |
+| **Markdown** | A folder of `.md` files — open them in Obsidian or any editor, forever |
+| **Plain text** | The lowest common denominator, always readable |
+| **`.inkgrove`** | A lossless backup of the whole project, re-importable |
 
-### Where your data lives (Windows)
-```
-Your library:   %LOCALAPPDATA%\app.inkgrove.desktop\inkgrove.db
-Backups:        %LOCALAPPDATA%\app.inkgrove.desktop\backups\
-Settings:       %APPDATA%\app.inkgrove.desktop\config.json
-```
-These survive app updates. To move Inkgrove to a new machine, copy `inkgrove.db`.
-
----
-
-## Your own AI (bring your own key)
-
-Inkgrove has a **manuscript-aware AI** that you power with **your own Anthropic API key** —
-so you pay the AI provider directly and **we never see your key or your writing**.
-
-- Paste your key in **⚙ Settings** (session-only by default) and pick a model
-  (Claude Haiku / Sonnet / Opus).
-- **Scene & book synopsis** — summarize what you've written.
-- **Build from manuscript** — the AI reads your draft and *proposes* characters, world
-  entries, and plot threads for you to review and apply.
-- An **AI history** log shows what ran and the token spend.
-
-**The principle:** AI **assists** — it reads, summarizes, and organizes. It **never writes
-your prose for you**. The book stays yours.
+The desktop app also keeps **rolling local backups** of your library, and can restore from
+them if a file is ever damaged.
 
 ---
 
@@ -102,6 +95,14 @@ your prose for you**. The book stays yours.
 No proprietary sync. If you want your manuscript on more than one machine, point Inkgrove's
 files at a folder inside **your own Dropbox / iCloud / Google Drive** — your cloud carries
 it across devices. Your data, your account, no middleman.
+
+---
+
+## Privacy
+
+There is no backend, so there's nothing to collect. No account, no sign-up, no telemetry
+running by default. Crash reports and anonymous usage counters exist but are each
+**opt-in and off by default**, and neither ever includes your writing.
 
 ---
 
@@ -119,9 +120,8 @@ it across devices. Your data, your account, no middleman.
 
 - macOS & Linux desktop builds
 - Native mobile apps
-- **Story Map** — see your whole book at a glance
-- Import from Scrivener and more
 - Code-signed installers
+- An extensible plugin system
 
 ---
 
@@ -131,6 +131,6 @@ it across devices. Your data, your account, no middleman.
 **[Browser demo](https://lit-haven.pages.dev)** ·
 **[Report an issue](https://github.com/capactiyvirus/inkgrove/issues)**
 
-*Inkgrove — a writing tool that assists, and never writes your prose for you.*
+*Inkgrove — your novel, on your machine, in files you own.*
 
 </div>
