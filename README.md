@@ -99,27 +99,6 @@ These survive app updates. To move Inkgrove to a new machine, copy `inkgrove.db`
 
 ---
 
-## AI — on the roadmap, on your terms
-
-**AI is not one of the things Inkgrove does for you.** It's a roadmap item: the code is in
-the tree and switched off. Whether a given build has it is answered by that build's
-[release notes](https://github.com/capactiyvirus/inkgrove/releases) — never by this page.
-Nothing below is something to install Inkgrove for today.
-
-The shape it will take is settled:
-
-- **Your own Anthropic API key**, pasted in **⚙ Settings** — you'd pay the AI provider
-  directly, and **we never see your key or your writing**. No account with us, no relay.
-- **Scene & book synopsis** — summarize what you've written.
-- **Build from manuscript** — read your draft and *propose* characters, world entries, and
-  plot threads for you to review and apply.
-- A **history** log of what ran and what it cost.
-
-**The principle, whenever it lands:** AI **assists** — it reads, summarizes, and organizes.
-It **never writes your prose for you**. The book stays yours.
-
----
-
 ## Cross-device, your way
 
 No proprietary sync, and none planned. To get your manuscript onto a second machine today:
@@ -148,7 +127,6 @@ keep — is on the roadmap and is how this is meant to work.
 - Linux desktop build
 - Native mobile apps
 - **Story Map** — see your whole book at a glance
-- **AI, bring-your-own-key** — see above
 - Higher-fidelity import from more formats and sources
 - Code-signed installers
 
@@ -160,6 +138,6 @@ keep — is on the roadmap and is how this is meant to work.
 **[Browser demo](https://lit-haven.pages.dev)** ·
 **[Report an issue](https://github.com/capactiyvirus/inkgrove/issues)**
 
-*Inkgrove — a writing tool that assists, and never writes your prose for you.*
+*Inkgrove — your novel, on your machine, in a file you own.*
 
 </div>
