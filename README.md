@@ -7,7 +7,7 @@
 A complete, **local-first** writing studio for long-form fiction — as a free desktop app.
 No account. No upload. No server. Your words live on your machine.
 
-[**⬇ Download the latest release**](https://github.com/capactiyvirus/inkgrove/releases/latest) &nbsp;·&nbsp; [Try the browser demo](https://lit-haven.pages.dev)
+[**⬇ Download the latest release**](https://github.com/capactiyvirus/inkgrove/releases/latest) &nbsp;·&nbsp; [Try the browser demo](https://inkgrove.app)
 
 </div>
 
@@ -27,7 +27,7 @@ No account. No upload. No server. Your words live on your machine.
 
 Not every release carries every asset — check the release you're downloading. No installer
 for your OS? Use the free **browser demo** — no install, runs entirely in your browser:
-**https://lit-haven.pages.dev**
+**https://inkgrove.app**
 
 ### Your OS will warn on first run
 Inkgrove is in **alpha** and not yet code-signed, so your OS can't verify who made the
@@ -135,7 +135,7 @@ keep — is on the roadmap and is how this is meant to work.
 <div align="center">
 
 **[Download](https://github.com/capactiyvirus/inkgrove/releases/latest)** ·
-**[Browser demo](https://lit-haven.pages.dev)** ·
+**[Browser demo](https://inkgrove.app)** ·
 **[Report an issue](https://github.com/capactiyvirus/inkgrove/issues)**
 
 *Inkgrove — your novel, on your machine, in a file you own.*
