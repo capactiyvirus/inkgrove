@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": "2026-08-29-0-8-259",
+      "date": "2026-08-29",
+      "kind": "app",
+      "title": "0.8.259 — your writing time is recorded properly now",
+      "body": "Inkgrove is in beta. This round is mostly repairs, and two of them were quietly losing things. Time spent writing could vanish instead of being saved, especially when you closed the app, where the tail of a whole session went unrecorded. And days that hit your daily target were drawn in a colour that did not exist, so your best days showed as nothing at all. Both are fixed. New: click any square in your writing history to correct a day, or reset the record entirely. You can choose which dictionary word lookup uses. Clicking a character or world portrait now offers pictures you already have. This is in the code now — the next installer will carry it."
+    },
+    {
+      "id": "2026-08-28-test-link",
+      "date": "2026-08-28",
+      "kind": "writing",
+      "title": "A post with a link (click Read more)",
+      "body": "This one carries an https link, so it should show a Read more button that opens in your real browser rather than inside the app.",
+      "link": "https://github.com/capactiyvirus/inkgrove/releases"
+    },
+    {
+      "id": "2026-08-27-test-hostile",
+      "date": "2026-08-27",
+      "kind": "app",
+      "title": "A post with a hostile link (there must be NO Read more)",
+      "body": "This post's link is javascript:alert(1). The post itself must render normally, and there must be no Read more button at all. If you see one, that is a real bug — tell me.",
+      "link": "javascript:alert(1)"
+    },
+    {
+      "id": "2026-08-01-test-fourth",
+      "date": "2026-08-01",
+      "kind": "app",
+      "title": "You should NOT see this fourth post",
+      "body": "Only the newest three undismissed posts are drawn. If this one is visible, the cap is not working."
+    }
+  ]
+}
