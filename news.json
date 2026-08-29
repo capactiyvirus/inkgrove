@@ -1,18 +1,19 @@
 {
   "posts": [
     {
-      "id": "2026-08-29-0-8-259",
+      "id": "2026-08-29-0-8-260",
       "date": "2026-08-29",
       "kind": "app",
-      "title": "0.8.259 — your writing time is recorded properly now",
-      "body": "Inkgrove is in beta, and this round is mostly repairs. Two of them were quietly losing things. Time spent writing could vanish instead of being saved, especially when you closed the app — the tail of a whole session went unrecorded. And days that hit your daily target were drawn in a colour that did not exist, so your best days showed as nothing at all. Both are fixed. New: click any square in your writing history to correct a day, or reset the record entirely. You can choose which dictionary word lookup uses. Clicking a character or world portrait now offers pictures you already have, instead of jumping straight to a file browser. This has landed in the code — the next installer will carry it."
+      "title": "0.8.260 is out — Windows and macOS",
+      "body": "Installers are up, carrying both of the last two rounds. The big one: time you spent writing could vanish instead of being saved. That is fixed.",
+      "link": "https://github.com/capactiyvirus/inkgrove/releases/tag/v0.8.260"
     },
     {
       "id": "2026-08-29-youtube",
       "date": "2026-08-29",
       "kind": "writing",
       "title": "Videos: the craft, and building this thing in the open",
-      "body": "There is a YouTube channel where I talk about writing and about building Inkgrove — what the app is for, what I am wrestling with, and the parts of drafting that nobody warns you about. If you want to see where this is going before it arrives, that is the place. Say what you want from a writing tool and it tends to end up on the list.",
+      "body": "A YouTube channel where I talk about writing and about building Inkgrove — what it is for, and the parts of drafting nobody warns you about.",
       "link": "https://www.youtube.com/@authorbrisarovski/videos"
     },
     {
@@ -20,7 +21,8 @@
       "date": "2026-08-29",
       "kind": "app",
       "title": "It says beta now, and that is on purpose",
-      "body": "The badge changed from alpha to beta. Same promise underneath: your writing stays on your machine, in files you own, and there is no account and no server holding any of it. Beta means the shape is settled and the work now is making it solid. Everything here is built by watching real writing sessions go wrong — the tracker fix above came from exactly that. If something breaks or annoys you, that is worth reporting; most of this release started as somebody noticing."
+      "body": "Same promise underneath: your writing stays on your machine, in files you own, with no account and no server holding any of it. If something breaks, say so.",
+      "link": "https://github.com/capactiyvirus/inkgrove/issues"
     }
   ]
 }
