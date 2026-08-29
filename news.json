@@ -4,24 +4,24 @@
       "id": "2026-08-29-0-8-260",
       "date": "2026-08-29",
       "kind": "app",
-      "title": "0.8.260 is out — Windows and macOS",
-      "body": "Installers are up, carrying both of the last two rounds. The big one: time you spent writing could vanish instead of being saved. That is fixed.",
+      "title": "0.8.260 is out for Windows and macOS",
+      "body": "The installers cover both of the last two rounds, and the main one is that time you spent writing could go missing instead of being saved, which no longer happens.",
       "link": "https://github.com/capactiyvirus/inkgrove/releases/tag/v0.8.260"
     },
     {
       "id": "2026-08-29-substack",
       "date": "2026-08-29",
       "kind": "writing",
-      "title": "A newsletter, if you want the longer version",
-      "body": "On writing, and on building Inkgrove — the thinking that does not fit in a release note. Just starting out, so you would be there from the first one.",
+      "title": "There is a newsletter now, if you want the longer version",
+      "body": "It covers writing and the building of Inkgrove at more length than a release note allows, and since it is only just beginning you would be reading from the first one.",
       "link": "https://substack.com/@brisarovski"
     },
     {
       "id": "2026-08-29-youtube",
       "date": "2026-08-29",
       "kind": "writing",
-      "title": "Videos: the craft, and building this thing in the open",
-      "body": "A YouTube channel where I talk about writing and about building Inkgrove — what it is for, and the parts of drafting nobody warns you about.",
+      "title": "Videos about the craft, and about building this in the open",
+      "body": "There is a channel where I talk through writing and through what goes into Inkgrove, including the parts of drafting that tend to catch people out.",
       "link": "https://www.youtube.com/@authorbrisarovski/videos"
     }
   ]
