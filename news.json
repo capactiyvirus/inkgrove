@@ -5,30 +5,22 @@
       "date": "2026-08-29",
       "kind": "app",
       "title": "0.8.259 — your writing time is recorded properly now",
-      "body": "Inkgrove is in beta. This round is mostly repairs, and two of them were quietly losing things. Time spent writing could vanish instead of being saved, especially when you closed the app, where the tail of a whole session went unrecorded. And days that hit your daily target were drawn in a colour that did not exist, so your best days showed as nothing at all. Both are fixed. New: click any square in your writing history to correct a day, or reset the record entirely. You can choose which dictionary word lookup uses. Clicking a character or world portrait now offers pictures you already have. This is in the code now — the next installer will carry it."
+      "body": "Inkgrove is in beta, and this round is mostly repairs. Two of them were quietly losing things. Time spent writing could vanish instead of being saved, especially when you closed the app — the tail of a whole session went unrecorded. And days that hit your daily target were drawn in a colour that did not exist, so your best days showed as nothing at all. Both are fixed. New: click any square in your writing history to correct a day, or reset the record entirely. You can choose which dictionary word lookup uses. Clicking a character or world portrait now offers pictures you already have, instead of jumping straight to a file browser. This has landed in the code — the next installer will carry it."
     },
     {
-      "id": "2026-08-28-test-link",
-      "date": "2026-08-28",
+      "id": "2026-08-29-youtube",
+      "date": "2026-08-29",
       "kind": "writing",
-      "title": "A post with a link (click Read more)",
-      "body": "This one carries an https link, so it should show a Read more button that opens in your real browser rather than inside the app.",
-      "link": "https://github.com/capactiyvirus/inkgrove/releases"
+      "title": "Videos: the craft, and building this thing in the open",
+      "body": "There is a YouTube channel where I talk about writing and about building Inkgrove — what the app is for, what I am wrestling with, and the parts of drafting that nobody warns you about. If you want to see where this is going before it arrives, that is the place. Say what you want from a writing tool and it tends to end up on the list.",
+      "link": "https://www.youtube.com/@authorbrisarovski/videos"
     },
     {
-      "id": "2026-08-27-test-hostile",
-      "date": "2026-08-27",
+      "id": "2026-08-29-beta-open",
+      "date": "2026-08-29",
       "kind": "app",
-      "title": "A post with a hostile link (there must be NO Read more)",
-      "body": "This post's link is javascript:alert(1). The post itself must render normally, and there must be no Read more button at all. If you see one, that is a real bug — tell me.",
-      "link": "javascript:alert(1)"
-    },
-    {
-      "id": "2026-08-01-test-fourth",
-      "date": "2026-08-01",
-      "kind": "app",
-      "title": "You should NOT see this fourth post",
-      "body": "Only the newest three undismissed posts are drawn. If this one is visible, the cap is not working."
+      "title": "It says beta now, and that is on purpose",
+      "body": "The badge changed from alpha to beta. Same promise underneath: your writing stays on your machine, in files you own, and there is no account and no server holding any of it. Beta means the shape is settled and the work now is making it solid. Everything here is built by watching real writing sessions go wrong — the tracker fix above came from exactly that. If something breaks or annoys you, that is worth reporting; most of this release started as somebody noticing."
     }
   ]
 }
