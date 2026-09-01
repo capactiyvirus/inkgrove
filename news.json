@@ -1,6 +1,14 @@
 {
   "posts": [
     {
+      "id": "2026-09-01-0-9-0-coming",
+      "date": "2026-09-01",
+      "kind": "app",
+      "title": "0.9.0 is coming, and it is the last one you have to fetch by hand",
+      "body": "The next version can update itself, so once you have it a new build arrives inside the app rather than on the releases page. It also folds duplicate characters and places back into one, which matters if an import handed you the same person three times over, and it gives a book you delete somewhere to wait rather than going for good. Word lookup answers again as well, after the dictionary it had been relying on went quiet. The full notes go up alongside the build.",
+      "link": "https://github.com/capactiyvirus/inkgrove/releases"
+    },
+    {
       "id": "2026-08-29-0-8-260",
       "date": "2026-08-29",
       "kind": "app",
