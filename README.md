@@ -22,7 +22,6 @@ No account. No upload. No server. Your words live on your machine.
 |---|---|---|
 | **Windows 10/11 (x64)** | ✅ Available | `Inkgrove_<version>_x64-setup.exe` (recommended) or `Inkgrove_<version>_x64_en-US.msi` |
 | **macOS (Intel & Apple silicon)** | ✅ Available | `Inkgrove_<version>_universal.dmg` |
-| **Linux** | 🔜 Coming soon | — |
 | **iOS / Android** | 🔜 Planned | — |
 
 Not every release carries every asset — check the release you're downloading. No installer
