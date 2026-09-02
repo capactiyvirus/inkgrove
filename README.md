@@ -123,7 +123,6 @@ keep — is on the roadmap and is how this is meant to work.
 
 ## On the roadmap
 
-- Linux desktop build
 - Native mobile apps
 - **Story Map** — see your whole book at a glance
 - Higher-fidelity import from more formats and sources
