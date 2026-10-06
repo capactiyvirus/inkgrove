@@ -1,6 +1,14 @@
 {
   "posts": [
     {
+      "id": "2026-10-06-0-9-2-beta",
+      "date": "2026-10-06",
+      "kind": "app",
+      "title": "0.9.2 is up as a beta, with a Linux version for the first time",
+      "body": "Every book is now also kept as plain files beside your library, with a checkpoint of the whole book every couple of hours, and the new History space lets you search every version a book has kept for a line you cut and read what changed as prose. Character pages are laid out in tabs taken from your own sheet, which is now yours to change, and a long run of fixes keeps your words safe when a connection drops or the same scene is open in two windows. It is a beta for now, so you take it from the release page, and once it has had more testing it becomes the next update that arrives inside the app.",
+      "link": "https://github.com/capactiyvirus/inkgrove/releases/tag/v0.9.2"
+    },
+    {
       "id": "2026-09-01-0-9-0-beta",
       "date": "2026-09-01",
       "kind": "app",
