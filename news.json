@@ -9,22 +9,6 @@
       "link": "https://github.com/capactiyvirus/inkgrove/releases/tag/v0.9.2"
     },
     {
-      "id": "2026-09-01-0-9-0-beta",
-      "date": "2026-09-01",
-      "kind": "app",
-      "title": "0.9.0 is up as a beta, if you would like it early",
-      "body": "It can update itself, so once you have this one a new build arrives inside the app rather than on the releases page. It also folds duplicate characters and places back into one, which matters if an import handed you the same person three times over, and a book you delete now waits in the Trash rather than going for good. Word lookup answers again as well, after the dictionary it had been relying on went quiet. It is going out as a beta first because an update mechanism is the one feature you cannot really test on your own, and it leaves your existing library exactly as it is.",
-      "link": "https://github.com/capactiyvirus/inkgrove/releases/tag/v0.9.0"
-    },
-    {
-      "id": "2026-08-29-0-8-260",
-      "date": "2026-08-29",
-      "kind": "app",
-      "title": "0.8.260 is out for Windows and macOS",
-      "body": "The installers cover both of the last two rounds, and the main one is that time you spent writing could go missing instead of being saved, which no longer happens.",
-      "link": "https://github.com/capactiyvirus/inkgrove/releases/tag/v0.8.260"
-    },
-    {
       "id": "2026-08-29-substack",
       "date": "2026-08-29",
       "kind": "writing",
