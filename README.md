@@ -8,6 +8,12 @@ A free, local-first writing app for novelists, with no account, no upload and no
 
 [**Download**](https://github.com/capactiyvirus/inkgrove/releases/latest) &nbsp;·&nbsp; [Try it in your browser](https://inkgrove.app) &nbsp;·&nbsp; [**Join the Discord**](https://inkgrove.app/discord)
 
+<br />
+
+[![Inkgrove demo: library, themes, scene inspector and daily word goals](assets/demo-preview.gif)](assets/demo.mp4)
+
+[**Watch the full demo**](assets/demo.mp4), a two minute tour of the library, world building, themes, scene inspector and word goals.
+
 </div>
 
 ## What you get
