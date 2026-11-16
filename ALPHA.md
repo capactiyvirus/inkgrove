@@ -53,6 +53,8 @@ What to know:
 
 ![The result screen after the books are added](assets/alpha/import-result.png)
 
+The import works the same way on Windows and on a Mac, but nobody has tried it by hand on a Mac yet. If you are on a Mac, please tell me how it goes. If it says your live Inkgrove is still open when it is closed, press **Copy anyway**.
+
 ## What to try
 
 Anything you normally do is useful. The newest parts of 0.9.3, where problems are most likely, are:
