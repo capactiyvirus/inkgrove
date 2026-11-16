@@ -1,6 +1,14 @@
 {
   "posts": [
     {
+      "id": "2026-11-16-alpha",
+      "date": "2026-11-16",
+      "kind": "app",
+      "title": "The alpha for 0.9.3 is out, and you can help test it",
+      "body": "It is a separate app that sits beside your live Inkgrove and can copy your books across. It changes often and it has bugs, so tell me what you find. Ask in the Discord and I will add you to the testers channel.",
+      "link": "https://github.com/capactiyvirus/inkgrove/blob/main/ALPHA.md"
+    },
+    {
       "id": "2026-10-15-discord",
       "date": "2026-10-15",
       "kind": "app",
